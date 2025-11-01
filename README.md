@@ -8,6 +8,11 @@
 
 ------
 
+[![Arslan-Tech](https://raw.githubusercontent.com/Arslan-MD/Arslan-Tech-Bot/main/assets/mr.svg)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
+
+
+-------------
+
 <!-- GLOWING ROTATING BADGES -->
 <div align="center">
 
