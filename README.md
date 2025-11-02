@@ -180,3 +180,79 @@
   # 3. Add creds.json to session folder
   # 4. Start Bot
   npm start
+
+```
+---
+
+<!-- CONTRIBUTION -->
+
+<div align="center">
+  <h2 style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">🤝 CONTRIBUTE & SUPPORT</h2>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/fork">
+          <img src="https://img.shields.io/badge/🍴_FORK_REPO-000000?style=for-the-badge&logo=github&logoColor=white" width="180"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/stargazers">
+          <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="180"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/issues">
+          <img src="https://img.shields.io/badge/🐛_REPORT_ISSUE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" width="180"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ANIMATED DISCLAIMER -->
+
+<div align="center">
+  <h2 style="color: #FF0000; text-shadow: 0 0 10px #FF0000;">⚠️ DISCLAIMER</h2>
+
+  <div style="background: linear-gradient(45deg, #000000, #ff0000, #000000); padding: 20px; border-radius: 15px; border: 2px solid #ff0000;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=This+bot+is+not+affiliated+with+WhatsApp+Inc.;Use+at+your+own+risk.;Developers+are+not+responsible+for+misuse." alt="Disclaimer Animation">
+  </div>
+</div>
+
+---
+
+<!-- ANIMATED FOOTER -->
+
+<div align="center">
+
+  <!-- GLOWING DIVIDER -->
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&height=40&lines=©+2024+Arslan-Tech-Bot+•+Made+with+❤️+by+ArslanMD+Official" alt="Footer Animation">
+
+  <br>
+
+  <!-- ANIMATED STATS -->
+
+  <a href="https://github.com/Arslan-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff&include_all_commits=true" width="450"/>
+  </a>
+
+  <br>
+
+  <!-- VISITOR COUNTER -->
+
+  <img src="https://komarev.com/ghpvc/?username=Arslan-MD&label=PROFILE+VIEWS&style=flat-square&color=00FFFF&labelColor=000000" alt="Profile Views"/>
+
+</div>
+
+<!-- MARQUEE EFFECT -->
+
+<div style="background: #000000; padding: 10px; border: 1px solid #00FFFF; margin-top: 20px;">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="color: #00FFFF; font-weight: bold;">
+    🚀 ARSLAN-TECH-BOT • 🤖 ADVANCED WHATSAPP BOT • 🔥 VERSION 5.0 • ⭐ STAR THE REPOSITORY • 🍴 FORK FOR CUSTOMIZATION • 💬 JOIN OUR COMMUNITY
+  </marquee>
+</div>
+```
